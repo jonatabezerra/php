@@ -1,7 +1,6 @@
 <?php
 
-	echo "Olá Mundo!12";
-
-	echo "Olá JDMonthName(Jonata, mode)";
+	echo "Olá Mundo!!!!!";
+	echo "Olá Terra!";
 
 	?>
