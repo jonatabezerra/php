@@ -1,0 +1,6 @@
+---------------------Puxar Arquivo do GitHub-------------
+git pull origin master
+---------------------Enviar Arquivos para o GitHub-------
+git add --all
+git commit -m "Escrever aqui o que foi feito"
+git push origin master
